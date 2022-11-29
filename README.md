@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smagawi, a newbie in Tech.
+- 👋 Hi, I’m Shane Magawi, a newbie in Tech.
 - 👀 I’m interested in Coding and data visualization
 - 🌱 I’m currently learning Python, SQL and Power BI.
 - 💞️ I’m looking to collaborate on Data Analytics Portfolio Projects
